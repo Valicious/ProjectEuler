@@ -1,0 +1,7 @@
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\bin\Debug\Project Euler PS1.exe.config
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\bin\Debug\Project Euler PS1.exe
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\bin\Debug\Project Euler PS1.pdb
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\obj\Debug\Project Euler PS1.csprojResolveAssemblyReference.cache
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\obj\Debug\Project Euler PS1.exe
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\obj\Debug\Project Euler PS1.pdb
+C:\Users\gertp\OneDrive - Nelson Mandela Metropolitan University\Project Euler\Project Euler PS1\Project Euler PS1\bin\Debug\BigInteger.dll
